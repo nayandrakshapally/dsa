@@ -1,0 +1,17 @@
+Measure of how the running time of an algorithm increases with the size of the input data
+
+Big O notation (To understand the time complexity of the algo)
+1) O(1) -> constant time (array[1])
+2) O(log n) -> Logarthimic time
+3) O(n) -> linear time
+4) O(n log n) -> linearthimic time
+5) O(n2) -> Quadratic time
+6) O(2n) -> Exponential time
+7) O(n!) -> Factorial time
+
+As 'n' increases time also increases.
+
+log2 n -> base 2
+log2 8 = 3 steps (2*2*2)
+log2 16 = 4 steps (2*2*2*2)
+As no of values increases, it will also increase one stop

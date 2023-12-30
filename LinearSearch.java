@@ -6,7 +6,7 @@
 // 4) What if there is no target value in the array, then there is no point of executing all the steps.
 // 5) Time complexity of linear search is O(n)->(Linear time).
 // 6) As length of 'n' increases, steps increases and also time increases.
-// 7) 
+
 //pseudo code
 // procedure LinearSearch(Arr: List of items, target: item to search for)
 // n=length(Arr) -> which is '6' as per arrayitems above
